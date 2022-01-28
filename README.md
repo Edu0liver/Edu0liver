@@ -1,5 +1,5 @@
-## Hello, my name is Eduardo!
-# I'm a Back-End Developer, and I work mainly with technologies like Node.js and Typescript.
+# Hello, my name is Eduardo!
+## I'm a Back-End Developer, and I work mainly with technologies like Node.js and Typescript.
 
 <div>
   <a href="https://github.com/Edu0liver">
