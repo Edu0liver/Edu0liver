@@ -8,9 +8,10 @@
   <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </div>
-  
-##
 
+##
+  <a href="https://wakatime.com/@BigEduks"><img src="https://wakatime.com/badge/user/e074d5b1-be2b-4be2-9829-3c06ca53add6.svg" alt="Total time coded since Jun 18 2021" /></a>
+##
 <div>
   <a href="https://www.linkedin.com/in/eduoliveiralves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
